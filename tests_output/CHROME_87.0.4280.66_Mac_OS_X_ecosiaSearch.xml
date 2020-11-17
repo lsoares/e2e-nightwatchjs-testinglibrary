@@ -5,9 +5,9 @@
 
   <testsuite name="ecosiaSearch"
     errors="0" failures="0" hostname="" id="" package="ecosiaSearch" skipped="0"
-    tests="1" time="2.797" timestamp="">
+    tests="1" time="2.453" timestamp="">
   
-    <testcase name="Demo test ecosia.org" classname="ecosiaSearch" time="2.797" assertions="5">
+    <testcase name="Demo test ecosia.org" classname="ecosiaSearch" time="2.453" assertions="5">
 
     
 
@@ -21,6 +21,12 @@
     </testcase>
   
 
+  
+    <system-err>
+        ReferenceError: done is not defined
+       at Object.beforeEach (/Users/lsr7759/projects/e2e/tests/ecosiaSearchWithTL.js:7:5)
+       at new Promise (&lt;anonymous&gt;)
+    </system-err>
   
 
     
