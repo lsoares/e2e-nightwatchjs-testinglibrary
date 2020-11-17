@@ -5,9 +5,9 @@
 
   <testsuite name="ecosiaSearchWithTL"
     errors="1" failures="0" hostname="" id="" package="ecosiaSearchWithTL" skipped="0"
-    tests="1" time="0.9100" timestamp="">
+    tests="1" time="0.9130" timestamp="">
   
-    <testcase name="Demo test ecosia.org" classname="ecosiaSearchWithTL" time="0.9100" assertions="0">
+    <testcase name="Demo test ecosia.org" classname="ecosiaSearchWithTL" time="0.9130" assertions="0">
     <error message="Unable to find the &#34;window&#34; object for the given node. Please file an issue with the code that&#39;s causing you to see this error: https://github.com/testing-library/dom-testing-library/issues/new" type="error"><![CDATA[
     Error: Unable to find the &#34;window&#34; object for the given node. Please file an issue with the code that&#39;s causing you to see this error: https://github.com/testing-library/dom-testing-library/issues/new
     at getWindowFromNode (/Users/lsr7759/projects/e2e/node_modules/@testing-library/dom/dist/helpers.js:107:11)
